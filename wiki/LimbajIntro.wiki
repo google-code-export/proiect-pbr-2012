@@ -1,0 +1,25 @@
+#summary One-sentence summary of this page.
+#labels modul,comunicare,utilizator,pattern,extras,informatii
+
+= Introduction =
+
+Introducere in patternuri v1.0
+
+
+= Details =
+
+De realizat o serie de patternuri.
+
+X-ulesc ii place sa miroasa pe Y-ulescu in situatia z.
+Pattern 1-100
+X Y Z -> append baza de date
+P1-P200(minim 200?) -> extras informatii utile + comparare etc.
+
+Sintaxa:
+Caps-Lock -> cuvinte cheie ( sau intre mai multe cuvinte cheie ) exemplu:
+ACTIUNE=smell|pee|poo|etc.
+PERSONAJ=dog|puppie|.....
+etc
+
+Inainte de toate, trebuie stabilit informatiile existente si formatul lor.
+Ex: in fisierul caini.txt se afla toate rasele de caini cate una pe linie, etc
