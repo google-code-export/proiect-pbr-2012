@@ -13,4 +13,5 @@
  * *trebuie alese rapid macar 10-15 rase* pentru ca Modulul 1 sa adune informatii pentru texturi (ei ocupandu-se cu partea de vizualizare).
  * *pentru fiecare rasa, macar 2 indivizi*
 
+== Documentele vor fi incarcate in sectiunea "Downloads" == 
  
