@@ -17,4 +17,5 @@
 ==Exemple==
  
  * extragerea de informatii dintr-un text, ce poate fi chiar un link catre o resursa
+ * aceste informatii sun limitate (va fi dificil, poate, de descoperit apartenenta individului)
  * daca nu putem accesa resursele se poate cere ajutor
