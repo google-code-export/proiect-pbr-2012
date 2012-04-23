@@ -1,16 +1,16 @@
-#labels Phase-Implementation
-=Modulul 2=
+#labels Phase-Implementation,ontologie
+==Modulul 2==
 
 Modulul 2 se va ocupa cu definirea *ontologiilor*.
 
 Structura:
 
-1) Portal + comunicare (2 persoane)
-2) ONTOLOGIA (8 persoane)
+# Portal + comunicare (2 persoane)
+# ONTOLOGIA (8 persoane)
 - Specia (_, _, x, _, _)
 - Rasa (x, _, y, z, _)
 - Individ (x, y, z, w, t)
 - Format atribute
-3) IMBOGATIRE (10 persoane)
+# IMBOGATIRE (10 persoane)
 - Dialog (5 persoane)
 - Exemple (5 persoane)
