@@ -2,7 +2,7 @@
 #labels Phase-Implementation,ontologie,Featured
 ==Modulul 2==
 
-Modulul 2 se va ocupa cu definirea *ontologiilor* pentru rasele de caini.
+Modulul 2 se va ocupa cu definirea *ontologiilor* pentru rasele de caini, iar comunicarea principala va fi cu modulul 1 pentru stabilirea raselor de caini (ca sa poata stabili ei texturile) si pentru stabilirea cuvintelor cheie necesare sectiunii de Imbogatire a dialogului.
 
 ===Structura modulului===
  # Portal + comunicare (2 persoane)
