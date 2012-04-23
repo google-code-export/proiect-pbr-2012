@@ -1,3 +1,4 @@
+#summary Descrierea si structura generala a modulului 2
 #labels Phase-Implementation,ontologie
 ==Modulul 2==
 
