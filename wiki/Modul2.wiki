@@ -5,12 +5,12 @@ Modulul 2 se va ocupa cu definirea *ontologiilor*.
 
 Structura:
 
-# Portal + comunicare (2 persoane)
-# ONTOLOGIA (8 persoane)
-- Specia (_, _, x, _, _)
-- Rasa (x, _, y, z, _)
-- Individ (x, y, z, w, t)
-- Format atribute
-# IMBOGATIRE (10 persoane)
-- Dialog (5 persoane)
-- Exemple (5 persoane)
+ # Portal + comunicare (2 persoane)
+ # ONTOLOGIA (8 persoane)
+ * Specia (_, _, x, _, _)
+ * Rasa (x, _, y, z, _)
+ * Individ (x, y, z, w, t)
+ * Format atribute
+ # IMBOGATIRE (10 persoane)
+ * Dialog (5 persoane)
+ * Exemple (5 persoane)
