@@ -11,7 +11,8 @@ Modulul 2 se va ocupa cu definirea *ontologiilor* pentru rasele de caini, iar co
   * Rasa (x, _, y, z, _)
   * Individ (x, y, z, w, t)
   * Format atribute
- # IMBOGATIRE (10 persoane, descrierea sectiunii o gasiti la: )
+ # IMBOGATIRE (10 persoane, descrierea sectiunii o gasiti la: 
+http://code.google.com/p/proiect-pbr-2012/wiki/Imbogatire )
   * Dialog (5 persoane)
   * Exemple (5 persoane)
 
