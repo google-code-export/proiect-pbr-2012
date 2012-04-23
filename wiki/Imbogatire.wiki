@@ -1,0 +1,20 @@
+#summary Submodul - Imbogatire. Modul 2
+#labels Modul2,Imbogatire,Dialog,Exemple,Phase-Requirements
+
+== Imbogatire==
+
+==Dialog==
+
+ * *impreuna cu Modulul 1 vor fi definite cuvintele cheie* (cuvintele caracterizante pentru indivizi, rase si specii, pentru completarea ontologiei)
+
+ * Modulul 1 va furniza date de la utilizatori, din care trebuie selectionate acele informatii care descriu un individ, intrarea fiind salvata in ontologia existenta
+ * va fi nevoie de o verificare daca sunt suficiente informatiile primite de la utilizator, pentru a defini un individ 
+
+
+ *pot aparea rase noi, specii (este nevoie de pattern-uri pentru astfel de situatii, sa poata fi salvata o noua specie, rasa in ontologie)
+
+
+==Exemple==
+ 
+ * extragerea de informatii dintr-un text, ce poate fi chiar un link catre o resursa
+ * daca nu putem accesa resursele se poate cere ajutor
