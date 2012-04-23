@@ -6,6 +6,9 @@
  * descrierea celor 4 elemente principale (specia, rasa, individ, format-atribute).
  * *format-atribute*, se refera la diverse caracteristici specifice unui individ (ori specie), de exemplu: culoare urechilor, marime etc.
  * va trebui definit un pattern pentru descoperirea unei specii. Aici pot fi declarate/definite atribute caracterizante pentru specie, individ, rasa - deci, pentru a face diferentierea.
+
+ * *individul este unic, pleaca de la general si ajunge la cea mai specifica chestie (adica, de la specie, apoi rasa, si ajunge la individ)*.
+
  * exista seturi de informatii care respecta un pattern, si care pot fi folosite pentru deosebirea rapida a unei specii, rase.
  * *trebuie alese rapid macar 10-15 rase* pentru ca Modulul 1 sa adune informatii pentru texturi (ei ocupandu-se cu partea de vizualizare).
  * *pentru fiecare rasa, macar 2 indivizi*
