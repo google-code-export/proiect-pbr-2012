@@ -1,14 +1,16 @@
-#summary One-sentence summary of this page.
 #labels Phase-Implementation
+=Modulul 2=
 
-= Introduction =
+Modulul 2 se va ocupa cu definirea *ontologiilor*.
 
-Add your content here.
+Structura:
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+1) Portal + comunicare (2 persoane)
+2) ONTOLOGIA (8 persoane)
+- Specia (_, _, x, _, _)
+- Rasa (x, _, y, z, _)
+- Individ (x, y, z, w, t)
+- Format atribute
+3) IMBOGATIRE (10 persoane)
+- Dialog (5 persoane)
+- Exemple (5 persoane)
