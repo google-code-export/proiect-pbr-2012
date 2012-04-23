@@ -1,17 +1,46 @@
-#summary Descrierea si structura generala a modulului 2
+#summary Descrierea, structura generala si componenta a modulului 2
 #labels Phase-Implementation,ontologie,Featured
 ==Modulul 2==
 
-Modulul 2 se va ocupa cu definirea *ontologiilor*.
+Modulul 2 se va ocupa cu definirea *ontologiilor* pentru rasele de caini.
 
-Structura:
-
+===Structura modulului===
  # Portal + comunicare (2 persoane)
- # ONTOLOGIA (8 persoane)
+ # ONTOLOGIA (8 persoane, descrierea sectiunii o gasiti la: )
   * Specia (_, _, x, _, _)
   * Rasa (x, _, y, z, _)
   * Individ (x, y, z, w, t)
   * Format atribute
- # IMBOGATIRE (10 persoane)
+ # IMBOGATIRE (10 persoane, descrierea sectiunii o gasiti la: )
   * Dialog (5 persoane)
   * Exemple (5 persoane)
+
+===Componenta submodulelor===
+ # PORTAL + COMUNICARE:
+  * Ghimiciu Mihaela
+  * Deliu Sabina
+ # ONTOLOGIE:
+  * Pavel Sorin Constantin
+  * Trandafir Marius
+  * Damian Lucian
+  * Bolboros Ciprian
+  * Diaconescu Stefan
+  * Poama-neagra Andreea
+  * Ardeleanu Ioana
+  * Panaite Victor
+  * Dorobantu Alexandru
+  * Grecu Vlad
+ # IMBOGATIRE
+  # DIALOG:
+   * Leferman Tudor
+   * Onofrei Stefan
+   * Gheorghiu Andrei
+   * Burlacu Daniela
+   * Padureau Andreea
+  # EXEMPLE:
+   * Bolboceanu Sabina
+   * _cei care mai vreti in aceasta sectiune sa imi dati mail cu numele vostru._
+
+----
+
+*Astept sa imi trimiteti mail cei care vreti la submodulul de IMBOGATIREA EXEMPLELOR la ghimiciu.mihaela@gmail.com si va rog sa sesizati daca sunt neconcordante. Va multumesc!*
