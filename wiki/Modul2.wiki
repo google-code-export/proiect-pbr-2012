@@ -39,6 +39,7 @@
    * Padureanu Andreea
   # EXEMPLE:
    * Bolboceanu Sabina
+   * Tatarascu Iulian
    * _cei care mai vreti in aceasta sectiune sa imi dati mail cu numele vostru._
 
 ===Directii generale a modulului===
