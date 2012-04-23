@@ -43,7 +43,7 @@
 
 ===Detalii de organizare interna===
 
-Pentru o buna organizare, *arhivele sau fisierele in format text* se vor urca in sectiunea de *"Downloads"* (http://code.google.com/p/proiect-pbr-2012/downloads/list) cu un nume sugestiv si unic, iar *codurile sursa* ce tin de acest modul se vor urca in fisierul trunk din sectiunea *"Source"* (http://code.google.com/p/proiect-pbr-2012/source/browse/).
+Pentru o buna organizare, *arhivele sau fisierele in format text* se vor urca in sectiunea de *"Downloads"* (http://code.google.com/p/proiect-pbr-2012/downloads/list) cu un nume sugestiv si unic avand unul dintre labele textul "modul2". Iar *codurile sursa* ce tin de acest modul se vor urca in fisierul trunk din sectiunea *"Source"* (http://code.google.com/p/proiect-pbr-2012/source/browse/).
 
 ----
 
