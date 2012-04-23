@@ -1,5 +1,5 @@
 #summary Descrierea si structura generala a modulului 2
-#labels Phase-Implementation,ontologie
+#labels Phase-Implementation,ontologie,Featured
 ==Modulul 2==
 
 Modulul 2 se va ocupa cu definirea *ontologiilor*.
