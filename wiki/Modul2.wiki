@@ -49,9 +49,8 @@
  * folosirea trasaturilor pentru a realiza dialoguri cu Utilizatorul 
   * Use case 2: Sistemul genereaza aleator o situatie si un comportament, iar utilizatorul e pus sa ghiceasca rasa cainelui.
   * Use case 3: Utilizatorul introduce o seama de trasaturi de comportament iar sistemul deduce rasa sau individul dintr-o multime de exemplare inregistrate in baza de dat.
- * realizarea a 200 de interactiuni Sistem-Utilizator de tip Use case 1 din care sa se deduca un set semnificativ de trasaturi pentru cel putin 6 rase de caini.
+ * realizarea de interactiuni Sistem-Utilizator de tip Use case 1 din care sa se deduca un set semnificativ de trasaturi pentru cel putin 6 rase de caini.
 _Use case 1: Utilizatorul, posesor de caine, se identifica sistemului precizand si rasa cainelui. Sistemul genereaza aleator o situatie iar utiliz trebuie sa indice comportamentul cainelui in acea situatie. La final sistemul va trebui sa construiasca o baza de date continand trasaturi de comportament specifice diferitelor rase de caini sau diferitilor indivizi din aceeasi rasa._
-
 
 ===Detalii de organizare interna===
 
@@ -60,3 +59,7 @@ Pentru o buna organizare, *arhivele sau fisierele in format text* se vor urca in
 ----
 
 Astept sa imi trimiteti mail cei care vreti la submodulul de IMBOGATIREA EXEMPLELOR la ghimiciu.mihaela@gmail.com si va rog sa ma sesizati daca sunt neconcordante. Va multumesc!
+
+----
+
+_Pentru mai multe detalii privind proiectul mergeti la: http://profs.info.uaic.ro/~dcristea/cursuri/SE/2012/2011-2012/Proiect/Proiect%20PBR-martie%202012.pdf _
