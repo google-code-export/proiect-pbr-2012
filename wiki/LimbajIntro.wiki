@@ -1,6 +1,6 @@
 #summary One-sentence summary of this page.
 #labels modul,comunicare,utilizator,pattern,extras,informatii
-
+Descriere cu ce ar trebui sa facem.
 = Introduction =
 
 Introducere in patternuri v1.0
