@@ -7,8 +7,8 @@
 ===Structura modulului===
  # PORTAL + COMUNICARE (2 persoane)
  # ONTOLOGIA (8 persoane, descrierea sectiunii o gasiti la: http://code.google.com/p/proiect-pbr-2012/wiki/Ontologia )
-  * Specia (-, -, x, -, -)
-  * Rasa (x, -, y, z, -)
+  * Specia (- , - , x, - , - )
+  * Rasa (x, - , y, z, - )
   * Individ (x, y, z, w, t)
   * Format atribute
  # IMBOGATIRE (10 persoane, descrierea sectiunii o gasiti la: http://code.google.com/p/proiect-pbr-2012/wiki/Imbogatire )
@@ -43,4 +43,8 @@
 
 ----
 
-*Astept sa imi trimiteti mail cei care vreti la submodulul de IMBOGATIREA EXEMPLELOR la ghimiciu.mihaela@gmail.com si va rog sa ma sesizati daca sunt neconcordante. Va multumesc!*
+*Pentru o buna organizare, arhivele sau fisierele in format text se vor urca in sectiunea de "Downloads" (http://code.google.com/p/proiect-pbr-2012/downloads/list) cu un nume sugestiv si unic, iar codurile sursa ce tin de acest modul se vor urca in fisierul trunk din sectiunea "Source" (http://code.google.com/p/proiect-pbr-2012/source/browse/#svn%2Ftrunk).*
+
+----
+
+Astept sa imi trimiteti mail cei care vreti la submodulul de IMBOGATIREA EXEMPLELOR la ghimiciu.mihaela@gmail.com si va rog sa ma sesizati daca sunt neconcordante. Va multumesc!
