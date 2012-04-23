@@ -6,7 +6,7 @@ Modulul 2 se va ocupa cu definirea *ontologiilor* pentru rasele de caini, iar co
 
 ===Structura modulului===
  # Portal + comunicare (2 persoane)
- # ONTOLOGIA (8 persoane, descrierea sectiunii o gasiti la: )
+ # ONTOLOGIA (8 persoane, descrierea sectiunii o gasiti la: http://code.google.com/p/proiect-pbr-2012/wiki/Ontologia )
   * Specia (_, _, x, _, _)
   * Rasa (x, _, y, z, _)
   * Individ (x, y, z, w, t)
