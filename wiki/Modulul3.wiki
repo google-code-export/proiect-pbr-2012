@@ -1,0 +1,51 @@
+#summary One-sentence summary of this page.
+
+= Modulul 3 =
+
+=== Componență modul (14 studenți): ===
+
+   * Amariei Daniel
+   * Cazacu Georgiana
+   * Cîrligeanu Cristian Alexandru
+   * Dolceanu Iulian
+   * Gagos Radu Vasile
+   * Gâza Bogdan
+   * Kristo Robert
+   * Naum Irina
+   * Nistor Constantin
+   * Popa Ionut Alexandru
+   * Scutariu Paul
+   * Stancu Romeo
+   * Stirban Ionut Daniel
+   * Vasiliu Cristina
+   * Vizitiu George Alexandru
+
+=== Grupe de lucru ===
+
+   # *Portal + Comunicare între module*
+     ** Cazacu Georgiana
+     ** Popa Ionuț Alexandru
+   # *Raționament*
+     ** Amariei Daniel
+     ** Dolceanu Iulian
+     ** Gagos Radu Vasile
+     ** Gâza Bogdan
+     ** Kristo Robert
+     ** Naum Irina
+     ** Stancu Romeo
+     ** Vasiliu Cristina
+   # *Canal audio*
+     ** Cîrligeanu Cristian Alexandru
+   # *Canal video*
+     ** Nistor Constantin
+   # *Alte canale*
+     ** Vizitiu George Alexandru
+
+
+
+
+
+
+
+
+    
