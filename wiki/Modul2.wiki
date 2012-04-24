@@ -40,6 +40,8 @@
   # EXEMPLE:
    * Bolboceanu Sabina
    * Tatarascu Iulian
+   * Dumitru Georgiana
+   * Stuparu Cristina
    * _cei care mai vreti in aceasta sectiune sa imi dati mail cu numele vostru._
 
 ===Directii generale a modulului===
