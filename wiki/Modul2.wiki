@@ -38,10 +38,10 @@
    * Burlacu Daniela
    * Padureanu Andreea
   # EXEMPLE:
-   * Bolboceanu Sabina
    * Tatarascu Iulian
    * Dumitru Georgiana
    * Stuparu Cristina
+   * Ceobotaru Nicolae
    * _cei care mai vreti in aceasta sectiune sa imi dati mail cu numele vostru._
 
 ===Directii generale a modulului===
