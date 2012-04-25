@@ -57,7 +57,7 @@ _Use case 1: Utilizatorul, posesor de caine, se identifica sistemului precizand 
 
 ===Detalii de organizare interna===
 
-Pentru o buna organizare, *arhivele sau fisierele in format text* se vor urca in sectiunea de *"Downloads"* (http://code.google.com/p/proiect-pbr-2012/downloads/list) cu un nume sugestiv si unic avand unul dintre labele textul "modul2". Iar *codurile sursa* ce tin de acest modul se vor urca in fisierul trunk din sectiunea *"Source"* (http://code.google.com/p/proiect-pbr-2012/source/browse/). De asemenea sa stati cu ochii si pe sectiunea *"Issues"* (http://code.google.com/p/proiect-pbr-2012/issues/list) pentru ca acolo vor mai aparea taskuri legate de proiect.
+Pentru o buna organizare, *arhivele sau fisierele in format text* se vor urca in sectiunea de *"Downloads"* (http://code.google.com/p/proiect-pbr-2012/downloads/list) cu un nume sugestiv si unic avand unul dintre labele textul "modul2". Iar *codurile sursa* ce tin de acest modul se vor urca in fisierul trunk din sectiunea *"Source"* (http://code.google.com/p/proiect-pbr-2012/source/browse/). De asemenea sa stati cu ochii si pe sectiunea *"Issues"* (http://code.google.com/p/proiect-pbr-2012/issues/list) pentru ca acolo vor mai aparea *taskuri* legate de proiect.
 
 ----
 
