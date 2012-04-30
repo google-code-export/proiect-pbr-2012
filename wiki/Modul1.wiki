@@ -1,4 +1,4 @@
-#summary Modul 1 - obiective si task-uri=
+#summary Modul 1 - obiective si task-uri
 
 *Modulul 1 -> își propune să realizeze o aplicații Web si un limbaj de comunicare simplu pentru 	interacțiunea Utilizator - System.
 
