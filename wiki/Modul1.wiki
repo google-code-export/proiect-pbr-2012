@@ -1,0 +1,47 @@
+#summary Modul 1 - obiective si task-uri=
+
+*Modulul 1 -> își propune să realizeze o aplicații Web si un limbaj de comunicare simplu pentru 	interacțiunea Utilizator - System.
+
+=== Grupe de lucru:===
+ # *Administrare portal:*
+  * Iordachi Ioana
+  * Scutelnicu Andrei
+  * Verdes Andrei
+ # *Interfața:*
+  * Dragomir Tiberiu
+  * Hortolomei Ciprian
+  * Ignea Daniel
+  * Ihorov Stefan
+  * Mironica Iulian
+  * Roman Popovici Iuliana
+  * Spuze Cristian
+ # *Limbaj:*
+  * Ciocan Andreea
+  * Neamtu Azzinne
+  * Olteanu Iulia
+  * Petrov Robert
+  * Porof Victor
+
+=== Obiective generale ale modulului:===
+ * Propuneţi un limbaj de comunicare simplu între Sistem și Utilizator (v. Use case 1, 2, 3); 
+ *  Propuneţi o modalitate de generare a enunțurilor Sistemului (v. secțiunea 2);
+ *  Construiți un site în care utilizatorii care îndrăgesc câinii să fie tentaţi să interacționeze cu Sistemul vostru prin dialoguri ca cele descrise în User case 1, 2 și 3. Animația va trebui să însuflețească avatarul MY-DOG pe baza secvenţelor de predicate de acțiuni ce i se vor transmite ca rezultat al dialogului Sistem-Utilizator;
+ * Realizaţți 200 de interacţțiuni S‐U tip User case 1 din care să deduceți un set semnificativ de trăsături pentru cel puţțin 6 rase de câini. 
+
+=== Comportamentul sistemului (use cases) ===
+
+  * *Use case 1*
+Utilizatorul, posesor de căine, se identifică sistemului, precizând și rasa câinelui. Sistemul generează aleator o situaţie, iar utilizatorului i se cere să indice comportamentul câinelui (notat MY-DOG mai jos) în acea situaţie. (vedeti ex. - pagina 3-4 a prezentarii proiectului: http://profs.info.uaic.ro/~dcristea/cursuri/SE/2012/2011-2012/Proiect/Proiect%20PBR-martie%202012.pdf )
+
+  * *Use case 2*
+Sistemul generează aleator o situaţie și un comportament, iar utilizatorul, dornic să se antreneze în cunoștințe asupra raselor, e pus să ghicească rasa câinelui. 
+
+  * *Use case 3*
+Utilizatorul introduce o seamă de trăsături de comportament pe care și le‐ar dori să le aibă câinele său și sistemul deduce rasa (poate și individul dintr‐o mulţime de exemplare pe care le are înregistrate în baza de date).
+
+=== Detalii organizatorice ===
+
+Rog membrii celor 2 grupe de lucru, ca arhivele sau fisierele in format text să le upload-eze în secțiunea de *"Downloads"* (http://code.google.com/p/proiect-pbr-2012/downloads/list) avnd la inceputul fiecarei nume de fișier inițialelel Modulului 1 (*M1*) – pentru a putea face distinctive intre celelalte module. 
+Codurile sursa ale modulului 1 se vor upload-a în folder-ul modul1 al sectiunii Source (http://code.google.com/p/proiect-pbr-2012/source/browse/trunk/).
+----
+_Pagina proiectului: http://profs.info.uaic.ro/~dcristea/cursuri/SE/2012/2011-2012/Proiect/Proiect%20PBR-martie%202012.pdf _
