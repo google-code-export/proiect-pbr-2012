@@ -30,6 +30,8 @@
   * Panaite Victor
   * Dorobantu Alexandru
   * Grecu Vlad
+  * Mihaila Ioan
+  * Patrascu Daniel
  # IMBOGATIRE
   # DIALOG:
    * Leferman Tudor
