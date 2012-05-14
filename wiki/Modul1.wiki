@@ -1,13 +1,13 @@
 #summary Modul 1 - obiective si task-uri
 
-*Modulul 1 -> își propune să realizeze o aplicații Web si un limbaj de comunicare simplu pentru 	interacțiunea Utilizator - System.
+*Modulul 1 -> își propune să realizeze o aplicații Web si un limbaj de comunicare simplu pentru interacțiunea Utilizator - System.
 
 === Grupe de lucru:===
- # *Administrare portal:*
+ # *Portal Admins:*
   * Iordachi Ioana
   * Scutelnicu Andrei
   * Verdes Andrei
- # *Interfața:*
+ # *Interface:*
   * Dragomir Tiberiu
   * Hortolomei Ciprian
   * Ignea Daniel
@@ -15,7 +15,7 @@
   * Mironica Iulian
   * Roman Popovici Iuliana
   * Spuze Cristian
- # *Limbaj:*
+ # *Language:*
   * Ciocan Andreea
   * Neamtu Azzinne
   * Olteanu Iulia
