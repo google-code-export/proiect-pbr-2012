@@ -1,9 +1,9 @@
 <?php
 	
-	//
+	// Modul 2
 	// Authors: Mihai Daniel Patrascu & Mihaila N. Ioan
 	// Grupa 3A, An 3
-	// COPYRIGHT ©2012 by Ioan Mihaila & Mihai Daniel Patrascu.
+	// COPYRIGHT Â©2012 by Ioan Mihaila & Mihai Daniel Patrascu.
 	// All rights reserved!
 	//
 	
