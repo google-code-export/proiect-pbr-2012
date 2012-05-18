@@ -1,5 +1,5 @@
 <?php
-	
+  // Modul 2 
 	$host = "localhost";
 	$username = "root";
 	$password = "";
