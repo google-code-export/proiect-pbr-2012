@@ -9,8 +9,8 @@ Nu stiu cati dintre voi stiti, dar miercuri sau joi (30/31 mai) se va face *pred
  
  # Cate o intrebare pentru fiecare atribut (task finalizat).
   * Ex: pentru atributul de forma long ears -> Does the dog have long ears?
- # Set minim de atribute pentru care exista un individ nou.
+ # <font color="red">Set minim de atribute pentru care exista un individ nou.</font>
   * Ex: fiecarui atribut i se acorda un punctaj in functie de importanta si relevanta (A1 = 5, A2 = 3, A3 = 3, A4 = 2) daca suma atributelor este minim 10 atunci am identificat un individ nou.
  # Stabilirea unui prag minim pentru generalizare/ specializare (task finalizat). 
- # Exemple pentru atribute (task in desfasurare).
+ # <font color="red">Exemple pentru atribute</font> (sa va uitati in downloads ce rase au ramas fara exemple).
   * pentru fiecare rasa sa se dea 2-3 exemple de indivizi, exemplele pentru o rasa trebui sa fie consistente, nu chiar random, pentru ca la final sa se poata da un raspuns concludent.
