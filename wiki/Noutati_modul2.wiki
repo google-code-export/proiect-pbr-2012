@@ -1,5 +1,5 @@
 #labels Phase-Requirements,modul2
-#Ultimele updateuri si taskuri privind modulul 2
+# Ultimele updateuri si taskuri privind modulul 2
 
 = Ultimele noutati pentru modulul 2 =
 
