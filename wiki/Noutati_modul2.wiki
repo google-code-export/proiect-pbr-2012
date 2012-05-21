@@ -1,0 +1,18 @@
+#labels Phase-Requirements,modul2
+#Ultimele updateuri si taskuri privind modulul 2
+
+= Ultimele noutati pentru modulul 2 =
+
+Nu stiu cati dintre voi stiti, dar miercuri sau joi (30/31 mai) se va face *predarea proiectului final*, asta inseamna ca trebuie sa finalizam si noi partea noastra de treaba. Ultima intalnire, in care se vor mai face retusuri si modificari, va fi ora de laborator de luni (28 mai) de la 12 - 14 la care va rog sa veniti macar doua - trei persoane din fiecare submodul.
+
+== Ce mai trebuie facut ==
+ # Cate o intrebare pentru fiecare atribut (task finalizat).
+   * Ex: pentru atributul de forma urechi lungi -> Are catelul urechile lungi?
+
+ # Set minim de atribute pentru care exista un individ nou.
+   * Ex: fiecarui atribut i se acorda un punctaj in functie de importanta si relevanta (A1 = 5, A2 = 3, A3 = 3, A4 = 2) daca suma atributelor este minim 10 atunci am identificat un individ nou.
+
+ # Stabilirea unui prag minim generalizare/ specializare.
+ 
+ # Exemple pentru atribute (task in desfasurare)
+   * pentru ficare rasa sa se dea 2-3 exemple de indivizi, exemplele pentru o rasa trebui sa fie consistente, nu chiar random, pentru ca la final sa se poata da un raspuns concludent.
