@@ -56,9 +56,9 @@
 
     
 
-====Pagina proiectului ==== -    http://profs.info.uaic.ro/~dcristea/cursuri/SE/2012/2011-2012/Proiect/Proiect%20PBR-martie%202012.pdf*
+ ====Pagina proiectului - http://profs.info.uaic.ro/~dcristea/cursuri/SE/2012/2011-2012/Proiect/Proiect%20PBR-martie%202012.pdf ====
    
 
  ====Pentru cei care vor sa contribuie la proiect, si nu au de facut ceva anume inca====
     **este nevoie de propunerea unui set cat mai complet de predicate de actiuni (a se consulta sectiunea 3.5 din cadrul proiectului)
-    **o sa pun un fisier cu reprezentarea situatiilor in care se poate afla un caine, dar momentan este intr-un stadiu primitiv. Astep idei si propuneri pentru situatii posibile: lista este deschisa pentru imbunatatire si completari 
+    **am incarcat fisierul 'M3-reprezentare situatii' care contine reprezentarea situatiilor in care se poate afla un caine, dar momentan este intr-un stadiu primitiv. Astep idei si propuneri pentru situatii posibile: lista este deschisa pentru imbunatatire si completari. 
