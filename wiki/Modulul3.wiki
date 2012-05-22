@@ -61,4 +61,4 @@
 
  ====Pentru cei care vor sa contribuie la proiect, si nu au de facut ceva anume inca====
     **este nevoie de propunerea unui set cat mai complet de predicate de actiuni (a se consulta sectiunea 3.5 din cadrul proiectului)
-    **am incarcat fisierul 'M3-reprezentare situatii' care contine reprezentarea situatiilor in care se poate afla un caine, dar momentan este intr-un stadiu primitiv. Astep idei si propuneri pentru situatii posibile: lista este deschisa pentru imbunatatire si completari. 
+    **am incarcat fisierul 'M3-reprezentare situatii' care contine reprezentarea situatiilor in care se poate afla un caine, dar momentan este intr-un stadiu primitiv. Astep idei si propuneri pentru situatii posibile: lista este deschisa pentru imbunatatire si completari pentru a lua o forma finala cat mai ampla
