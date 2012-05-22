@@ -46,10 +46,12 @@
      **Badelita Lidia
 
 
+
 === Obiective generale ===
 
-
-
-
+     **propunerea unui set complet de canale de intrare(canale video, canale audio, alte canale), precizandu-se pentru fiecare setul de valori posibile ale atributelor
+     **propunerea unui set cat mai complet de predicate de actiuni cu precizarea tipurilor semantice ale argumentului
+     **construirea aparatului de rationament al Sistemului care sa permita inferarea trasaturilor caracteristice rasei ori individului
+     **realizarea a 200 de interactiuni S-U tip User case 1 prin intermediul carora se vor deduce un set semnificativ de trasaturi, pentru cel putin 6 rase de caini
 
     
