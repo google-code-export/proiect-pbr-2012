@@ -1,5 +1,4 @@
 #summary Momentant, doar componenta grupei pe submodule
-#labels Featured,Phase-Requirements
 
 = Modulul 3 =
   == Canale de intrare si Raționament ==
@@ -47,7 +46,7 @@
      **Badelita Lidia
 
 
-
+=== Obiective generale ===
 
 
 
