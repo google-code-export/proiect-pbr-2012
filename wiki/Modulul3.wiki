@@ -55,3 +55,6 @@
      **realizarea a 200 de interactiuni S-U tip User case 1 prin intermediul carora se vor deduce un set semnificativ de trasaturi, pentru cel putin 6 rase de caini
 
     
+
+   #*Pagina proiectului -    http://profs.info.uaic.ro/~dcristea/cursuri/SE/2012/2011-2012/Proiect/Proiect%20PBR-martie%202012.pdf
+   
