@@ -2,7 +2,7 @@
 
 = Modulul 3 =
   == Canale de intrare si Raționament ==
-=== Componență modul (15 studenți): ===
+=== Componență modul (16 studenți): ===
 
    * Amariei Daniel
    * Badelita Lidia
