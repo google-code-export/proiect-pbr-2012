@@ -1,4 +1,4 @@
-#summary Momentant, doar componenta grupei pe submodule
+
 
 = Modulul 3 =
   == Canale de intrare si Raționament ==
