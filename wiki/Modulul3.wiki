@@ -62,7 +62,7 @@
     **am incarcat fisierul 'M3-reprezentare situatii' care contine reprezentarea situatiilor in care se poate afla un caine, dar momentan este intr-un stadiu primitiv. Astep idei si propuneri pentru situatii posibile: lista este deschisa pentru imbunatatire si completari pentru a lua o forma finala cat mai ampla</font>
 
 
-===Rezultate pana acum:===
+====Rezultate pana acum:====
       ** *Reprezentare situatii:* http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=reprezentare%20situatii_v4.txt&can=2&q=#makechanges
       ** *Input Channel Audio:* http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=InputChannelAudio.txt&can=2&q=#makechanges
       ** *Template Input audio:* http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=InputChannelAudio.txt&can=2&q=#makechanges
