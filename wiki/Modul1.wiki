@@ -52,35 +52,35 @@ _Legaturi utile:
  * *Versiunea 1 - GUI:*
 http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=pbr_0.1.zip&can=2&q=#makechanges
 
-* *Versiunea 2 - GUI:*
+ * *Versiunea 2 - GUI:*
 http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=pbr_v0.2.rar&can=2&q=#makechanges
 
-* *Versiunea 3 - GUI:*
+ * *Versiunea 3 - GUI:*
 http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=pbr_v03.rar&can=2&q=#makechanges
 
-* *Versiunea 4 - GUI:*
+ * *Versiunea 4 - GUI:*
 http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=v04.7z&can=2&q=#makechanges
 
-* *Update Versiunea 4 - GUI:*
+ * *Update Versiunea 4 - GUI:*
 http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=v04-2.7z&can=2&q=#makechanges
 
-* *GUI - Formular de inregistrare pentru user:*
+ * *GUI - Formular de inregistrare pentru user:*
 http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=pbr_v03.7z&can=2&q=#makechanges
 
-* *GUI - Formular de logare:*
+ * *GUI - Formular de logare:*
 http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=pbr_aut_mysql.zip&can=2&q=#makechanges
 
-* *Versiunea demo - Limbaj:*
+ * *Versiunea demo - Limbaj:*
 http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=PBR.zip&can=2&q=#makechanges
 
-* *Versiunea actualizata - Limbaj:*
+ * *Versiunea actualizata - Limbaj:*
 http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=PBRactualizat.zip&can=2&q=#makechanges
 
-* *Versiunea finala - Limbaj:*
+ * *Versiunea finala - Limbaj:*
 http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=Modul1_limbaj.zip&can=2&q=#makechanges
 
-* *Situatii - Limbaj Natural:*
+ * *Situatii - Limbaj Natural:*
 http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=SitStories.txt&can=2&q=#makechanges
 
-* *Reactii - Limbaj Natural:*
+ * *Reactii - Limbaj Natural:*
 http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=ReacStories.txt&can=2&q=#makechanges
