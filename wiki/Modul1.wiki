@@ -49,7 +49,7 @@ _Pagina proiectului: http://profs.info.uaic.ro/~dcristea/cursuri/SE/2012/2011-20
 
 ----
 _Legaturi utile: 
-* *Versiunea 1 - GUI:*
+ * *Versiunea 1 - GUI:*
 http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=pbr_0.1.zip&can=2&q=#makechanges
 
 * *Versiunea 2 - GUI:*
