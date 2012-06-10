@@ -78,7 +78,8 @@ http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=PBR.zip&can=2&q=
 http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=PBRactualizat.zip&can=2&q=#makechanges
 
  * *Final version - Limbaj:*
-http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=Modul1_limbaj.zip&can=2&q=#makechanges
+API: http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=tagger.py&can=2&q=#makechanges
+Backend & libs: http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=Modul1_limbaj.zip&can=2&q=#makechanges
 
  * *Situation - Natural Language:*
 http://code.google.com/p/proiect-pbr-2012/downloads/detail?name=SitStories.txt&can=2&q=#makechanges
